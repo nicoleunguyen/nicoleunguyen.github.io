@@ -25,9 +25,5 @@ document.querySelector(".js-profile-picture").innerHTML = `
 document.querySelector(".js-summary ").innerHTML = `
     <p>${RESUME_DATA.summary.first}</p>
     <p>${RESUME_DATA.summary.second}</p>
-    <p>${RESUME_DATA.summary.third}</p>
 `;
 
-document.querySelector(".js-copyright").innerHTML += `
-    Copyright &copy; ${new Date().getFullYear()} ${RESUME_DATA.given} ${RESUME_DATA.family}.
-`;
