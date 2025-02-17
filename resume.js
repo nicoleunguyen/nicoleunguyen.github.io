@@ -7,7 +7,7 @@ const RESUME_DATA = {
     personalWebsiteUrl: "nicolenguyen@github.io",
     location: "san francisco bay area, ca",
     locationLink: "https://www.google.com/maps/place/San+Francisco+Bay+Area,+CA",
-    title: "BS symbolic systems @ stanford university",
+    title: "B.S. symbolic systems @ stanford university",
     about: "B.S. symbolic systems @ stanford university <br> concentration in media and communication <br> minor in computer science",
     summary: {
       first: `I'm a community college transfer student at Stanford University. Prior to Stanford, I attended Foothill College and received my Associate's Degree in Sociology and Certificates of Achievement in Data Analytics and Humanities.`,
@@ -58,6 +58,17 @@ const RESUME_DATA = {
         end: "June 2024",
         description:
           "Conducted thematic coding and comparative analysis using NVivo and RStudio to identify global trends in higher education access for Indigenous groups. Analyzed data from 60+ academic articles across 20 countries, shaping education policy recommendations. Recognized as 2024 Intern of the Year out of 40+ research interns.",
+      },
+      {
+        company: "Peninsula Symphony Orchestra",
+        link: "https://peninsulasymphony.org/",
+        contract: "Internship",
+        title: "Digital Marketing Intern",
+        // logo: JojoMobileLogo,
+        start: "January 2023",
+        end: "March 2023",
+        description:
+          "Conducted competitor analysis across 10+ industry benchmarks, uncovering content gaps. Informed targeted digital marketing optimizations that increased campaign ROI by 15%.",
       },
     ],
     skills: [
