@@ -1,6 +1,6 @@
 const RESUME_DATA = {
     given: "Hi, I'm",
-    family: "Nicole! ₍ ᐢ.ˬ.ᐢ₎",
+    family: "Nicole! (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ",
     initials: "NN",
     favicon: "./media/icons/favicon.ico",
     avatarUrl: "https://avatars.githubusercontent.com/u/198544219?v=4",
