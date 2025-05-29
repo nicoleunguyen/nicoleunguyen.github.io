@@ -30,45 +30,41 @@ const RESUME_DATA = {
         link: "https://tomkat.stanford.edu/",
         contract: "Part-time",
         title: "Student Assistant",
-        // logo: ParabolLogo,
         start: "November 2024",
         end: "Present",
         description:
-          `Boosted applications to 2025 summer internship programs by 30% through curated posts, testimonials, former intern highlights, and targeted outreach across social media platforms and the center website.
-          Partnered with 70+ student organizations to promote sustainability-focused fellowship and internship opportunities, connecting students with Silicon Valley startups.`,
+          `Launched the center’s first Instagram account, creating content to engage university students. Wrote and published 5 feature newsletters and articles on the TomKat Center website, generating over 3,000 combined views and amplifying student engagement with sustainability fellowships and research initiatives.`,
       },
       {
         company: "Foundation for California Community Colleges",
         link: "https://foundationccc.org/",
         contract: "Internship",
         title: "Communications & Content Marketing Intern",
-        // logo: ClevertechLogo,
         start: "May 2024",
         end: "August 2024",
         description:
-          "Developed two monthly content calendars, leading to a 15% increase in social media reach across platforms. Updated and maintained website content using WordPress and Drupal, ensuring accuracy in resource listings and optimizing layout for readability. Enhanced brand consistency across digital platforms by aligning social media content, email campaigns, and event materials with FoundationCCCs mission, boosting audience engagement by 10%.",
+          "Managed content strategy and updates for the Foundation’s website using WordPress and Drupal, ensuring accessibility and alignment with organization initiatives and mission statements. Developed two monthly content calendars, leading to a 15% increase in social media reach across platforms. Enhanced brand consistency across digital platforms by aligning social media content, email campaigns, and event materials with FoundationCCC’s mission, resulting in a 10% increase in audience engagement.",
       },
       {
         company: "Stanford Institute for Research in the Social Sciences",
         link: "https://iriss.stanford.edu/",
         contract: "Internship",
         title: "Research Assistant",
-        // logo: JojoMobileLogo,
         start: "June 2023",
         end: "June 2024",
         description:
-          "Conducted thematic coding and comparative analysis using NVivo and RStudio to identify global trends in higher education access for Indigenous groups. Analyzed data from 60+ academic articles across 20 countries, shaping education policy recommendations. Recognized as 2024 Intern of the Year out of 40+ research interns.",
+          "Analyzed academic literature on Indigenous groups in higher education across 20+ countries using thematic coding, comparative analysis, and tools like NVivo to identify global trends in access and outcomes.Created annotated bibliographies for 60+ academic articles, highlighting histories and challenges of Indigenous communities in higher education to inform equitable policy recommendations. <b> <u?Recognized as 2024 Intern of the Year out of 40+ research interns. </u> </b>",
       },
       {
-        company: "Peninsula Symphony Orchestra",
-        link: "https://peninsulasymphony.org/",
+        company: "First Community Housing",
+        link: "https://www.firsthousing.org/",
         contract: "Internship",
-        title: "Digital Marketing Intern",
-        // logo: JojoMobileLogo,
+        title: "Resource Intern",
         start: "January 2023",
         end: "March 2023",
         description:
-          "Conducted competitor analysis across 10+ industry benchmarks, uncovering content gaps. Informed targeted digital marketing optimizations that increased campaign ROI by 15%.",
+          "Conducted needs assessments across 3 affordable housing sites, synthesizing resident input and contributing to strategic recommendations, such as referral systems, that improved service delivery for low-income families.
+",
       },
     ],
     skills: [
