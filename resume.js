@@ -65,6 +65,12 @@ const RESUME_DATA = {
           "Conducted needs assessments across 3 affordable housing sites, synthesizing resident input and contributing to strategic recommendations, such as referral systems, that improved service delivery for low-income families.",
       },
     ],
+    relevant_courses: [
+      "Personality and Digital Media",
+      "Data Visualization",
+      "Data Analytics and Business Decisions",
+      "Psychological Effects of Emerging Media & AI",
+    ],
     skills: [
       "Social Media Optimization",
       "Copy Editing",
@@ -111,16 +117,5 @@ const RESUME_DATA = {
         },
         start: "May 2024",
     }
-    ],
-    students: [
-      {given: "Yélognissè", family: "Agbohessou"},
-      {given: "Alexis",family: "Bonnet"},
-      {given: "Oriane", family: "Braud"},
-      {given: "Moussa",family: "Diedhiou"},
-      {given: "Mathilde",family: "Millan"},
-      {given: "Valentin",family: "Torrelli"},
-      {given: "Simon",family: "Treillou"},
-      {given: "Sidy", family: "Sow"},
-      {given: "Thomas", family: "Wibaux"},
     ],
 };
