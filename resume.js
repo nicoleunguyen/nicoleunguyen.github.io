@@ -52,7 +52,7 @@ const RESUME_DATA = {
         start: "June 2023",
         end: "June 2024",
         description:
-          "Analyzed academic literature on Indigenous groups in higher education across 20+ countries using thematic coding, comparative analysis, and tools like NVivo to identify global trends in access and outcomes.Created annotated bibliographies for 60+ academic articles, highlighting histories and challenges of Indigenous communities in higher education to inform equitable policy recommendations. <b><u>Recognized as 2024 Intern of the Year out of 40+ research interns.</u></b>",
+          "Analyzed academic literature on Indigenous groups in higher education across 20+ countries using thematic coding, comparative analysis, and tools like NVivo to identify global trends in access and outcomes.Created annotated bibliographies for 60+ academic articles, highlighting histories and challenges of Indigenous communities in higher education to inform equitable policy recommendations. <b>Recognized as 2024 Intern of the Year out of 40+ research interns. </b>",
       },
       {
         company: "First Community Housing",
@@ -119,3 +119,4 @@ const RESUME_DATA = {
     }
     ],
 };
+
