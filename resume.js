@@ -1,7 +1,6 @@
 const RESUME_DATA = {
     given: "Hi, I'm",
     family: "Nicole! (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ",
-    initials: "NN",
     favicon: "./media/icons/favicon.ico",
     avatarUrl: "https://avatars.githubusercontent.com/u/198544219?v=4",
     personalWebsiteUrl: "nicolenguyen@github.io",
@@ -63,8 +62,7 @@ const RESUME_DATA = {
         start: "January 2023",
         end: "March 2023",
         description:
-          "Conducted needs assessments across 3 affordable housing sites, synthesizing resident input and contributing to strategic recommendations, such as referral systems, that improved service delivery for low-income families.
-",
+          "Conducted needs assessments across 3 affordable housing sites, synthesizing resident input and contributing to strategic recommendations, such as referral systems, that improved service delivery for low-income families.",
       },
     ],
     skills: [
