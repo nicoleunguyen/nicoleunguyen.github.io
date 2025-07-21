@@ -29,7 +29,7 @@ const RESUME_DATA = {
         contract: "Part-time",
         title: "Student Assistant",
         start: "November 2024",
-        end: "Present",
+        end: "June 2025",
         description:
           `Launched the center’s first Instagram account, creating content to engage university students. Wrote and published 5 feature newsletters and articles on the TomKat Center website, generating over 3,000 combined views and amplifying student engagement with sustainability fellowships and research initiatives.`,
       },
