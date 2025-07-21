@@ -65,6 +65,9 @@ const RESUME_DATA = {
       },
     ],
     relevant_courses: [
+      "Programming Methodologies",
+      "Programming Abstractions",
+      "Minds & Machines",
       "Personality and Digital Media",
       "Data Visualization",
       "Data Analytics and Business Decisions",
