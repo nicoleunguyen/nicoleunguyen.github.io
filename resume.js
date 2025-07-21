@@ -68,7 +68,10 @@ const RESUME_DATA = {
     relevant_courses: [
       { title: "Programming Methodologies", link: "https://online.stanford.edu/courses/cs106a-programming-methodology" },
       { title: "Programming Abstractions", link: "https://online.stanford.edu/courses/cs106b-programming-abstractions" },
-      { title: "Minds & Machines", link: "https://online.stanford.edu/courses/symsys1-minds-and-machines" }
+      { title: "Minds & Machines", link: "https://online.stanford.edu/courses/symsys1-minds-and-machines" },
+      { title: "Personality & Digital Media", link: "https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=COMM%20145:%20Personality%20and%20Digital%20Media&academicYear=20202021" },
+      { title: "Data Visualization", link: "https://catalog.foothill.edu/course-outlines/C-S-48A/" },
+      { title: "Introduce to Database Management Systems", link: "https://catalog.foothill.edu/course-outlines/C-S-31A/"},
     ],
     skills: [
       "Social Media Optimization",
