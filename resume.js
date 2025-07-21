@@ -7,7 +7,7 @@ const RESUME_DATA = {
     location: "san francisco bay area, ca",
     locationLink: "https://www.google.com/maps/place/San+Francisco+Bay+Area,+CA",
     title: "B.S. symbolic systems @ stanford university",
-    about: "B.S. symbolic systems @ stanford university <br> concentration in media and communication <br> minor in computer science",
+    about: "B.S. <b> symbolic systems </b> @ stanford university <br> concentration in <b> media and communication </b> <br> minor in <b> computer science </b>",
     summary: {
       first: `I'm a community college transfer student at Stanford University. Prior to Stanford, I attended Foothill College and received my Associate's Degree in Sociology and Certificates of Achievement in Data Analytics and Humanities.`,
       second: `My interests lie in the ways we create, interpret, and interact with information—whether through language, technology, or social systems. I'm passionate about the intersection of communication and computation, where media, marketing, and digital platforms shape how we connect and influence.`,
@@ -119,4 +119,3 @@ const RESUME_DATA = {
     }
     ],
 };
-
