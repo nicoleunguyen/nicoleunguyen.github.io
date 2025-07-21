@@ -6,6 +6,7 @@ const RESUME_DATA = {
     personalWebsiteUrl: "nicolenguyen@github.io",
     location: "san francisco bay area, ca",
     locationLink: "https://www.google.com/maps/place/San+Francisco+Bay+Area,+CA",
+    title: "B.S. symbolic systems @ stanford university",
     about: "B.S. <b> symbolic systems </b> @ stanford university <br> concentration in <b> media and communication </b> <br> minor in <b> computer science </b>",
     summary: {
       first: `I'm a community college transfer student at Stanford University. Prior to Stanford, I attended Foothill College and received my Associate's Degree in Sociology and Certificates of Achievement in Data Analytics and Humanities.`,
@@ -65,13 +66,9 @@ const RESUME_DATA = {
       },
     ],
     relevant_courses: [
-      "Programming Methodologies",
-      "Programming Abstractions",
-      "Minds & Machines",
-      "Personality and Digital Media",
-      "Data Visualization",
-      "Data Analytics and Business Decisions",
-      "Psychological Effects of Emerging Media & AI",
+      { title: "Programming Methodologies", link: "https://online.stanford.edu/courses/cs106a-programming-methodology" },
+      { title: "Programming Abstractions", link: "https://online.stanford.edu/courses/cs106b-programming-abstractions" },
+      { title: "Minds & Machines", link: "https://online.stanford.edu/courses/symsys1-minds-and-machines" }
     ],
     skills: [
       "Social Media Optimization",
