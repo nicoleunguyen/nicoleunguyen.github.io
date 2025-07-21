@@ -6,7 +6,6 @@ const RESUME_DATA = {
     personalWebsiteUrl: "nicolenguyen@github.io",
     location: "san francisco bay area, ca",
     locationLink: "https://www.google.com/maps/place/San+Francisco+Bay+Area,+CA",
-    title: "B.S. symbolic systems @ stanford university",
     about: "B.S. <b> symbolic systems </b> @ stanford university <br> concentration in <b> media and communication </b> <br> minor in <b> computer science </b>",
     summary: {
       first: `I'm a community college transfer student at Stanford University. Prior to Stanford, I attended Foothill College and received my Associate's Degree in Sociology and Certificates of Achievement in Data Analytics and Humanities.`,
